@@ -1,5 +1,12 @@
 # Overview
 
-This project aims to help you learn the GraphQL query language by creating your own profile page using data from the GraphQL API provided by the 01.kood.tech platform. You'll develop a functional UI that displays your own school-related information, as retrieved from the GraphQL API, along with interactive SVG-based statistic graph
+This project demonstrates how to create a profile page using the GraphQL query language, retrieving and displaying school-related data from the 01.kood.tech platform's GraphQL API. The profile page features a functional UI that displays personalized user information and includes interactive, SVG-based statistic graphs to visualize progress and achievements.
 
-# Usage:
+# Usage
+
+go to: https://kutsikas27.github.io/graphql/
+and use your credentials to log in
+
+# Author
+
+Egert Tõnström [https://01.kood.tech/git/etonstro]
